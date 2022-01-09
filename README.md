@@ -1,2 +1,1 @@
-# chapterOne
-Created with CodeSandbox
+Github explorer
